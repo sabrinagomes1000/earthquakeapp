@@ -1,2 +1,7 @@
-openai
-streamlit 
+streamlit
+requests
+pandas
+numpy
+folium
+branca
+streamlit_folium
